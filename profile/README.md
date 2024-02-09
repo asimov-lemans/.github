@@ -6,8 +6,7 @@ Asimov est une association étudiante basée à l'Institut Claude Chappe à l'Un
 
 Son objectif est de promouvoir les formations en informatique et de favoriser les relations entre les étudiants et les anciens élèves.
 
-Nous organisons principalement 3 grands types évènements.
-
+retrouver notre site [web](https://asimov-lemans.fr)
 <!--
 
 **Here are some ideas to get you started:**
